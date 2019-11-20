@@ -1,0 +1,9 @@
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes\ChatPipesElBueno\bin\Debug\ChatPipesElBueno.exe.config
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes\ChatPipesElBueno\bin\Debug\ChatPipesElBueno.exe
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes\ChatPipesElBueno\bin\Debug\ChatPipesElBueno.pdb
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes\ChatPipesElBueno\obj\Debug\ChatPipesElBueno.Form1.resources
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes\ChatPipesElBueno\obj\Debug\ChatPipesElBueno.Properties.Resources.resources
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes\ChatPipesElBueno\obj\Debug\ChatPipesElBueno.csproj.GenerateResource.cache
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes\ChatPipesElBueno\obj\Debug\ChatPipesElBueno.csproj.CoreCompileInputs.cache
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes\ChatPipesElBueno\obj\Debug\ChatPipesElBueno.exe
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes\ChatPipesElBueno\obj\Debug\ChatPipesElBueno.pdb

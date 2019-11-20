@@ -1,0 +1,6 @@
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes\Microfono\bin\Debug\Microfono.exe.config
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes\Microfono\bin\Debug\Microfono.exe
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes\Microfono\bin\Debug\Microfono.pdb
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes\Microfono\obj\Debug\Microfono.csproj.CoreCompileInputs.cache
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes\Microfono\obj\Debug\Microfono.exe
+D:\InakiAlkiza\DESARROLLO_INTERFACES\UD 4 Acceso a Datos\ChatPipes\Microfono\obj\Debug\Microfono.pdb
